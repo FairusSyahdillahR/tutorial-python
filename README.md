@@ -1,1 +1,1 @@
-TUtorial ini saya sediakan bagi yang ingin belajar python
+Tutorial ini saya sediakan bagi yang ingin belajar python
